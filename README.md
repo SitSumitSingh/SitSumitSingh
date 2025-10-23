@@ -22,16 +22,13 @@ I enjoy working at the intersection of **hardware, data, and intelligence** — 
 `C` · `C++` · `Python` · `Embedded C`  
 
 **Embedded & IoT:**  
-`ESP32 / ESP8266` · `Arduino` · `Raspberry Pi` · `HX711` · `MAX30102` · `DHT11` · `I2C/SPI/UART`  
+`ESP32 / ESP8266` · `Arduino` · `Raspberry Pi` · `RuggedBoard A5D2X` · `HX711` · `MAX30102` · `I2C/SPI/UART`  
 
 **Cloud & Networking:**  
 `MQTT` · `Rightech Cloud` · `AWS IoT Core` · `Blynk` · `ThingsBoard` · `Google Firebase`  
 
-**AI & Edge ML:**  
-`TensorFlow Lite` · `PyTorch` · `Edge Impulse`  
-
 **Tools & Platforms:**  
-`PlatformIO` · `Arduino IDE` · `VS Code` · `Linux (Ubuntu)` · `Git/GitHub`  
+`PlatformIO` · `Arduino IDE` · `VS Code` · `Linux (Ubuntu)` · `Git/GitHub` · `KiCad` · `TinkerCad`   
 
 ---
 
@@ -56,25 +53,17 @@ I enjoy working at the intersection of **hardware, data, and intelligence** — 
 
 ---
 
-### 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SitSumitSingh&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SitSumitSingh&layout=compact&theme=tokyonight" height="150">
-</p>
-
----
-
 ### 🎯 Career Objective  
 
 To leverage my knowledge in **IoT, Embedded Systems, and Edge AI** to design  
 **smart, connected devices** that improve real-world healthcare, energy efficiency, and automation.  
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=SitSumitSingh&color=blueviolet)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SitSumitSingh&theme=tokyonight)
 
 ### 🌐 Connect with Me  
 
-📧 **sumitsingh.ee22@silicon.ac.in**  
-💼 [LinkedIn](https://linkedin.com/in/sitsumitsingh)  
-🐦 [Twitter](https://twitter.com/sitsumitsingh)  
-🧑‍💻 [GitHub](https://github.com/SitSumitSingh)
+📧 **singhsumit6164@gmail.com**  
+💼 [LinkedIn](linkedin.com/in/singhsumit6164)  
+🐦 [Instagram](https://twitter.com/sitsumitsingh)  
