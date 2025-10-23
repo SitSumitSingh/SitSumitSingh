@@ -4,6 +4,7 @@
 📍 *Silicon University, Bhubaneswar (2022–2026)*  
 
 ⚡ **Embedded Systems | IoT Developer | Hardware Designer**
+
 ![Profile Views](https://komarev.com/ghpvc/?username=SitSumitSingh&color=blueviolet)
 
 ---
