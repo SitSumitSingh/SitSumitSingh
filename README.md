@@ -65,5 +65,5 @@ To leverage my knowledge in **IoT, Embedded Systems, and Edge AI** to design
 ### 🌐 Connect with Me  
 
 📧 **singhsumit6164@gmail.com**  
-💼 [LinkedIn](linkedin.com/in/singhsumit6164)  
+💼 [LinkedIn](https://www.linkedin.com/in/singhsumit6164/)  
 🐦 [Instagram](https://twitter.com/sitsumitsingh)  
