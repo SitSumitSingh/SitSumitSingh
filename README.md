@@ -3,7 +3,8 @@
 🎓 **B.Tech in Electrical and Electronics Engineering**  
 📍 *Silicon University, Bhubaneswar (2022–2026)*  
 
-⚡ **Embedded Systems | IoT Developer | Edge AI Explorer**
+⚡ **Embedded Systems | IoT Developer | Hardware Designer**
+![Profile Views](https://komarev.com/ghpvc/?username=SitSumitSingh&color=blueviolet)
 
 ---
 
@@ -59,8 +60,6 @@ To leverage my knowledge in **IoT, Embedded Systems, and Edge AI** to design
 **smart, connected devices** that improve real-world healthcare, energy efficiency, and automation.  
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=SitSumitSingh&color=blueviolet)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SitSumitSingh&theme=tokyonight)
 
 ### 🌐 Connect with Me  
 
